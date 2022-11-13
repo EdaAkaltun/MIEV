@@ -1,0 +1,13 @@
+networkx
+osmnx==1.2.2
+descartes==1.1.0
+rtree
+pygeos
+geopandas
+networkx
+osmnx==1.2.2
+descartes==1.1.0
+rtree
+pygeos
+geopandas
+openpyxl==3.0.10
