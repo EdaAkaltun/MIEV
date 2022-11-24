@@ -17,7 +17,7 @@ See REQUIREMENTS.txt for list of those packages.
 Online Jupyter notebooks for people with no experience setting up enviroments with packages is suggested.
 
 ## Usage
-Script 1 isn't mandatory for the process but gives a good insight through visual maps. Can be run for anly location.
+Script 1 isn't mandatory for the process but gives a good insight through visual maps. Can be run for any location visible in OpenStreetMpas.
 Run script 2, 3, 4 and 5 in order to find best nodes for a MIEV HUB in given place
 Script 6 and 7 can be used individually for every location in order to get information in terms of Point of Interests and Population data.
 
